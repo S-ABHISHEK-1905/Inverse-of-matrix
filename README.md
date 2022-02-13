@@ -36,6 +36,8 @@ print(a)
 ```
 
 ## OUTPUT:
+![image](https://user-images.githubusercontent.com/94165327/153737042-e62e64ff-4bbb-47ec-9d26-a29382389f12.png)
+
 
 ## RESULT:
 Thus the program is written to perform inverse of matrix using python programming.
